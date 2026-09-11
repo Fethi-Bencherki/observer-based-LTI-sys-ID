@@ -7,14 +7,14 @@ This repository contains the numerical experiments used to illustrate the paper�
 ## Repository Contents
 
 - 📘 **Figures 1–4 — LS and Weighted-LASSO Estimator Comparison**  
-  [`figures_1_4_estimator_comparison.ipynb`](figures_1_4_estimator_comparison.ipynb)  
+  [`estimator_comparison.ipynb`](estimator_comparison.ipynb)  
   Compares the least-squares and constrained weighted-LASSO estimators for
   Gaussian and uniformly distributed measurement noise. The notebook reports
   Monte Carlo estimation errors as the sample size increases and generates the
   corresponding mean-error and box-plot figures.
 
 - 📗 **Figures 5–8 — Feasible Parameter Sets**  
-  [`figures_5_8_feasible_parameter_sets.ipynb`](figures_5_8_feasible_parameter_sets.ipynb)  
+  [`feasible_parameter_sets.ipynb`](feasible_parameter_sets.ipynb)  
   Visualizes the feasible parameter sets for a first-order SISO model under
   Gaussian and uniform measurement noise. It also compares the locations of the
   least-squares and constrained weighted-LASSO estimates and illustrates how the
