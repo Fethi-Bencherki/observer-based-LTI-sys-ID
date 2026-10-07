@@ -82,9 +82,13 @@ Here `.*` denotes the available exported formats, such as `.pdf`, `.png`, and `.
 If you use this code, please cite the associated paper:
 
 ```bibtex
-@misc{bencherki2026error,
-  title  = {Error Bounds in Observer-Based LTI System Identification},
-  author = {Bencherki, Fethi and Akcay, Huseyin},
-  year   = {2026}
+@article{bencherki2026error,
+  author  = {Bencherki, Fethi and Ak{\c{c}}ay, H{\"u}seyin},
+  title   = {Error Bounds in Observer-Based {LTI} System Identification},
+  journal = {Systems \& Control Letters},
+  volume  = {218},
+  pages   = {106606},
+  year    = {2026},
+  doi     = {10.1016/j.sysconle.2026.106606}
 }
 ```
